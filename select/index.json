@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終焉クライシス - Crisis of the End",
+  "base_artist": "REiNa",
+  "createdAt": "2026-03-09T08:20:21.148765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終焉クライシス",
+      "artist": "REiNa",
+      "has_synced": false,
+      "path": "select/pl_01_終焉クライシス_REiNa.txt"
+    }
+  ]
+}
